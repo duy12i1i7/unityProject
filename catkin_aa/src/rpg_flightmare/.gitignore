@@ -1,0 +1,8 @@
+.idea
+cmake-build-debug
+flightmare
+rpg_flightmare
+examples/example_vision/src/saved_image/
+
+# VS code
+.vscode
